@@ -15,3 +15,4 @@ ReliefF is an Algorithm usde for getting the scores of Features in a Dataset on 
 
 #### Please note:
 This Python Implementation of ReliefF was written by me. However, the Algorithm and concepts have been taken from a certain Paper which has been mentioned as a Documentation within the code itself. My code is far from perfect. As such, if you can improve upon it, I encourage you to do so.
+- Abhik Banerjee
